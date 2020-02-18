@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanPort.RadioWebTools", "RomanPort.RadioWebTools\RomanPort.RadioWebTools.csproj", "{DBF29911-2D80-4E9C-8E78-169DFB336F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioWebTests", "RadioWebTests\RadioWebTests.csproj", "{72049378-3480-477B-8136-58584D9E2A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF29911-2D80-4E9C-8E78-169DFB336F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF29911-2D80-4E9C-8E78-169DFB336F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF29911-2D80-4E9C-8E78-169DFB336F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF29911-2D80-4E9C-8E78-169DFB336F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72049378-3480-477B-8136-58584D9E2A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72049378-3480-477B-8136-58584D9E2A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72049378-3480-477B-8136-58584D9E2A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72049378-3480-477B-8136-58584D9E2A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377EB506-CCCB-4C75-BE70-7E61F79624E6}
+	EndGlobalSection
+EndGlobal
